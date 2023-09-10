@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tmod",
+  "name": "tmod",
+  "description": "Extras For the T-craft Minecraft Server it is not designed for anything else. However, you ARE allowed to use tmod in any modpack or anthing else for the time being this is subject to change and it is your duty to check",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "http://tcraft.root.sx:8080/tmod/main.html",
+  "updateUrl": "ftp://Urmom.com/she/is/so/fat/she/doesent/need/internet/she_alreadyworldwide.fls",
+  "authorList": ["Vortron_rd"],
+  "credits": "Cubicoder's tutorials for teaching me about 1.12.2 forge modding",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

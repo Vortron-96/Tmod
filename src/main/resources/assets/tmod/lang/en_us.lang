@@ -1,0 +1,9 @@
+item.tmod.alloyiron.name=Iron Alloy
+item.tmod.pickcobalt.name=Cobalt Pickaxe
+item.tmod.axecobalt.name=Cobalt Axe
+item.tmod.hoecobalt.name=Cobalt Hoe
+item.tmod.swordcobalt.name=Cobalt Sword
+item.tmod.spadecobalt.name=Cobalt Shovel
+item.tmod.refinedcobalt.name=Refined Cobalt
+item.tmod.dustcobalt.name=Cobalt Dust
+itemGroup.tmod.tmodtab=T-Mod
